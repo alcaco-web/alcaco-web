@@ -1,7 +1,5 @@
 ## Hi there 👋
 
----
-
 # Alex Cano Corredor
 
 #### 🧾 Presentació
@@ -14,7 +12,7 @@ Sóc l'Alex Cano estic estudiant 2n del CFGS de Desenvolupament d'Aplicacions We
 
 Aquí tens algunes de les tecnologies amb les quals treballo i estic aprenent:
 
-* **HTML5 & CSS3**
+* **HTML & CSS**
 * **JavaScript**
 * **Git & GitHub**
 * **Visual Studio Code**
@@ -25,6 +23,12 @@ Aquí tens algunes de les tecnologies amb les quals treballo i estic aprenent:
 #### 🚀 Projectes destacats
 
 * 🎮 [pacman-git](https://github.com/alcaco-web/pacman-git) – Projecte de pràctica per dominar el control de versions amb Git, branques i etiquetes de versió.
+
+---
+
+## 📈 Estadístiques de GitHub
+
+![Targeta d'estadístiques de GitHub de l'usuari alcaco-web](https://github-readme-stats.vercel.app/api?username=alcaco-web&show_icons=true&theme=radical)
 
 ---
 
