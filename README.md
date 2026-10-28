@@ -30,7 +30,7 @@ Aquí tens algunes de les tecnologies amb les quals treballo i estic aprenent:
 
 ## 📈 Estadístiques de GitHub
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=agarciah-hash&show_icons=true&theme=radial)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=alcaco-web&show_icons=true&theme=radial)
 
 ---
 
