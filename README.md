@@ -6,6 +6,8 @@
 
 Sóc l'Alex Cano estic estudiant 2n del CFGS de Desenvolupament d'Aplicacions Web, sóc molt proactiu, tinc aprenentatge fàcil i sóc molt treballador.
 
+![Banner de benvinguda](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAsFYrq7lgSFzh21agscERIqh7RZkGhGpeRdADTQF_cg&s=10)
+
 ---
 
 #### 🛠️ Tecnologies
@@ -28,7 +30,7 @@ Aquí tens algunes de les tecnologies amb les quals treballo i estic aprenent:
 
 ## 📈 Estadístiques de GitHub
 
-![GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=alcaco-web&screen_effect=true&theme=rainbow)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=agarciah-hash&show_icons=true&theme=radial)
 
 ---
 
