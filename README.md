@@ -28,7 +28,7 @@ Aquí tens algunes de les tecnologies amb les quals treballo i estic aprenent:
 
 ## 📈 Estadístiques de GitHub
 
-![Targeta d'estadístiques de GitHub de l'usuari alcaco-web](https://github-readme-stats.vercel.app/api?username=alcaco-web&show_icons=true&theme=radical)
+![GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=alcaco-web&screen_effect=true&theme=rainbow)
 
 ---
 
